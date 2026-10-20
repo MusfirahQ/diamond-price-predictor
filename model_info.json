@@ -1,0 +1,7 @@
+{
+  "best_algorithm": "Extra Trees",
+  "mean_rmse": 546.3280340117548,
+  "std_rmse": 24.33264595912919,
+  "n_samples": 53794,
+  "sklearn_version": "1.8.0"
+}
